@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{77E5710D-3954-49AD-94C9-FEC0FE952359}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieAPIProject/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MovieAPIProject/Controllers/HomeController.cs" Line="95" Column="20" />
+      <File FileName="MovieAPIProject/Views/Home/Search.cshtml" Line="10" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieAPIProject" expanded="True">
+            <Node name="MovieAPIProject" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieAPIProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

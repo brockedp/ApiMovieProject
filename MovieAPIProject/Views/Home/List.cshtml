@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["title"] = "List";
+}
+
+<h1>Movie List</h1>
+
+@model MovieAPIProject.Models.Movie
+
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Year</th>
+        <th>Genre</th>
+        <th>Director</th>
+        <th>Actors</th>
+        <th>Plot</th>
+    </tr>
+    @*@foreach (var movie in Model)
+    {*@
+    <tr>
+        <td>@Model.Title</td>
+        <td>@Model.Year</td>
+        <td>@Model.Genre</td>
+        <td>@Model.Director</td>
+        <td>@Model.Actors</td>
+        <td>@Model.Plot</td>
+        <td>@Html.ActionLink("Add To Favorites", "AddFavoriteMovies", Model)</td>
+    </tr>
+    @*}*@
+</table>

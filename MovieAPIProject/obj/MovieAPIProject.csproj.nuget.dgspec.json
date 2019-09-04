@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Deno\\Documents\\Grand Circus\\MovieAPI_UseThis\\APIProject_Movie\\MovieAPIProject\\MovieAPIProject\\MovieAPIProject.csproj": {}
+    "/Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/MovieAPIProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Deno\\Documents\\Grand Circus\\MovieAPI_UseThis\\APIProject_Movie\\MovieAPIProject\\MovieAPIProject\\MovieAPIProject.csproj": {
+    "/Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/MovieAPIProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Deno\\Documents\\Grand Circus\\MovieAPI_UseThis\\APIProject_Movie\\MovieAPIProject\\MovieAPIProject\\MovieAPIProject.csproj",
+        "projectUniqueName": "/Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/MovieAPIProject.csproj",
         "projectName": "MovieAPIProject",
-        "projectPath": "C:\\Users\\Deno\\Documents\\Grand Circus\\MovieAPI_UseThis\\APIProject_Movie\\MovieAPIProject\\MovieAPIProject\\MovieAPIProject.csproj",
-        "packagesPath": "C:\\Users\\Deno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Deno\\Documents\\Grand Circus\\MovieAPI_UseThis\\APIProject_Movie\\MovieAPIProject\\MovieAPIProject\\obj\\",
+        "projectPath": "/Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/MovieAPIProject.csproj",
+        "packagesPath": "/Users/savanahisabella/.nuget/packages/",
+        "outputPath": "/Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Deno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/savanahisabella/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

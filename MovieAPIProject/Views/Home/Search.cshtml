@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["title"] = "Search";
+}
+
+<h1>Search for a Movie!</h1>
+
+<form action="/Home/Search" method="post">
+    <input type="text" name="userInput" placeholder="Movie Title" />
+    <input type="submit" value="Search" />
+</form>

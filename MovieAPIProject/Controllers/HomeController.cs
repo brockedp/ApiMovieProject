@@ -72,6 +72,33 @@ namespace MovieAPIProject.Controllers
             return RedirectToAction("AddFavoriteMovies");
         }
 
+        public IActionResult Search()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Search(string userInput)
+        {
+            //bool more = true;
+            var client = new HttpClient();
+            client.BaseAddress = new Uri("http://www.omdbapi.com");
+            //var movieList = new List<Movie>();
+            var apiKey = _configuration.GetSection("AppConfiguration")["APIKeyValue"];
+            var response = await client.GetAsync($"?t={userInput}&apikey={apiKey}");
+            var result = await response.Content.ReadAsAsync<Movie>();
+            //while (more)
+            //{
+            //    var result = await response.Content.ReadAsAsync<Movie>();
+            //    movieList.Add(result);
+            //    if (result != null)
+            //    {
+            //        more = true;
+            //    }
+            //}
+
+            return View("List", result);
+        }
     }
 }
 
