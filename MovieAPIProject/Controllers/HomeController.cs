@@ -60,13 +60,20 @@ namespace MovieAPIProject.Controllers
             return View();
         }
 
-        public IActionResult AddFavoriteMovies(FavoriteMovie favoriteMovie)
+        public IActionResult AddFavoriteMovies(Movie favoriteMovie) // change to movie
         {
+            FavoriteMovie addedMovie = new FavoriteMovie();
+            addedMovie.Title = favoriteMovie.Title;
+            addedMovie.Year = int.Parse(favoriteMovie.Year);
+            addedMovie.Genre = favoriteMovie.Genre;
+            addedMovie.Director = favoriteMovie.Director;
+            addedMovie.Actors = favoriteMovie.Actors;
+            addedMovie.Plot = favoriteMovie.Plot;
             string id = User.FindFirst(ClaimTypes.NameIdentifier).Value;
-            favoriteMovie.Title = id;
+            
             if (ModelState.IsValid)
             {
-                _context.FavoriteMovie.Add(favoriteMovie);
+                _context.FavoriteMovie.Add(addedMovie);
                 _context.SaveChanges();
             }
             return RedirectToAction("AddFavoriteMovies");
