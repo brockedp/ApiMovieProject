@@ -24,52 +24,34 @@ namespace MovieAPIProject.Controllers
             _context = context;
             _configuration = configuration;
         }
-        public HttpClient GetHttpClient()
-        {
-            var client = new HttpClient();
-            client.BaseAddress = new Uri("http://www.omdbapi.com");
-            var apiKey = _configuration.GetSection("AppConfiguration")["APIKeyValue"];
-            client.DefaultRequestHeaders.Add("??????", apiKey);
-            return client;
-        }
+        
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult SavedMovies()
+        public IActionResult FavoriteMovieList()
         {
-
             List<FavoriteMovie> movieList = _context.FavoriteMovie.ToList();
 
-            //List<Movie> favoriteMovies = new List<Movie>();
-            //AspNetUsers thisUser = _context.AspNetUsers.Where(u => u.UserName == User.Identity.Name).First();
-
-            //foreach (var item in movieList)
-            //{
-            //    if (id == item.)
-            //    {
-            //        favoriteMovies.Add(item);
-            //    }
-            //}
-            // return View(favoriteMovies);
+            
             return View(movieList);
         }
 
-        public IActionResult AddFavoriteMovies()
-        {
-            return View();
-        }
 
-        public IActionResult AddFavoriteMovies(FavoriteMovie favoriteMovie)
+        public IActionResult AddFavoriteMovies(Movie favoriteMovie) // change to movie
         {
-            string id = User.FindFirst(ClaimTypes.NameIdentifier).Value;
-            favoriteMovie.Title = id;
-            if (ModelState.IsValid)
-            {
-                _context.FavoriteMovie.Add(favoriteMovie);
-                _context.SaveChanges();
-            }
-            return RedirectToAction("AddFavoriteMovies");
+            FavoriteMovie addedMovie = new FavoriteMovie();
+            addedMovie.Title = favoriteMovie.Title;
+            addedMovie.Year = int.Parse(favoriteMovie.Year);
+            addedMovie.Genre = favoriteMovie.Genre;
+            addedMovie.Director = favoriteMovie.Director;
+            addedMovie.Actors = favoriteMovie.Actors;
+            addedMovie.Plot = favoriteMovie.Plot;
+            //string id = User.FindFirst(ClaimTypes.NameIdentifier).Value;
+            _context.FavoriteMovie.Add(addedMovie);
+            _context.SaveChanges();
+            
+            return RedirectToAction("FavoriteMovieList");
         }
 
         public IActionResult Search()
@@ -80,27 +62,29 @@ namespace MovieAPIProject.Controllers
         [HttpPost]
         public async Task<IActionResult> Search(string userInput)
         {
-            //bool more = true;
             var client = new HttpClient();
             client.BaseAddress = new Uri("http://www.omdbapi.com");
-            //var movieList = new List<Movie>();
             var apiKey = _configuration.GetSection("AppConfiguration")["APIKeyValue"];
             var response = await client.GetAsync($"?t={userInput}&apikey={apiKey}");
             var result = await response.Content.ReadAsAsync<Movie>();
-            //while (more)
-            //{
-            //    var result = await response.Content.ReadAsAsync<Movie>();
-            //    movieList.Add(result);
-            //    if (result != null)
-            //    {
-            //        more = true;
-            //    }
-            //}
+            
 
             return View("List", result);
         }
+        public IActionResult DeleteMovie(int Id)
+        {
+
+            FavoriteMovie found = _context.FavoriteMovie.Find(Id);
+            if (ModelState.IsValid)
+            {
+                _context.FavoriteMovie.Remove(found);
+                _context.SaveChanges();
+            }
+            return RedirectToAction("FavoriteMovieList");
+        }
     }
 }
+
 
 
 

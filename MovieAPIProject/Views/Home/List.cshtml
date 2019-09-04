@@ -15,8 +15,7 @@
         <th>Actors</th>
         <th>Plot</th>
     </tr>
-    @*@foreach (var movie in Model)
-    {*@
+    
     <tr>
         <td>@Model.Title</td>
         <td>@Model.Year</td>
@@ -26,5 +25,5 @@
         <td>@Model.Plot</td>
         <td>@Html.ActionLink("Add To Favorites", "AddFavoriteMovies", Model)</td>
     </tr>
-    @*}*@
+    
 </table>

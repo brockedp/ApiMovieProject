@@ -30,38 +30,6 @@ C:/Users/Deno/Documents/Grand Circus/MovieFinalProject/MovieAPIProject/MovieAPIP
 C:/Users/Deno/Documents/Grand Circus/MovieFinalProject/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.dll
 C:/Users/Deno/Documents/Grand Circus/MovieFinalProject/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.pdb
 C:/Users/Deno/Documents/Grand Circus/MovieFinalProject/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.csproj.CopyComplete
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.deps.json
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.runtimeconfig.json
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.runtimeconfig.dev.json
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.dll
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.pdb
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.Views.dll
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.Views.pdb
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.csprojAssemblyReference.cache
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.csproj.CoreCompileInputs.cache
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.RazorAssemblyInfo.cache
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.RazorAssemblyInfo.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.AssemblyInfoInputs.cache
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.AssemblyInfo.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.TagHelpers.input.cache
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.TagHelpers.output.cache
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.RazorCoreGenerate.cache
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Areas/Identity/Pages/_ViewStart.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_LoginPartial.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.RazorTargetAssemblyInfo.cache
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.RazorTargetAssemblyInfo.cs
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.Views.pdb
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.dll
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.pdb
-C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.csproj.CopyComplete
 /Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.deps.json
 /Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.runtimeconfig.json
 /Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/bin/Debug/netcoreapp2.2/MovieAPIProject.runtimeconfig.dev.json
@@ -96,3 +64,37 @@ C:/Users/Deno/Documents/Grand Circus/MovieAPI_UseThis/APIProject_Movie/MovieAPIP
 /Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/obj/Debug/netcoreapp2.2/MovieAPIProject.csproj.CopyComplete
 /Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/List.g.cshtml.cs
 /Users/savanahisabella/Projects/Movie_API_Project/ApiMovieProject/MovieAPIProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Search.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.RazorAssemblyInfo.cache
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.RazorAssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.AssemblyInfoInputs.cache
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.AssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.dll
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.pdb
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\bin\Debug\netcoreapp2.2\MovieAPIProject.deps.json
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\bin\Debug\netcoreapp2.2\MovieAPIProject.runtimeconfig.json
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\bin\Debug\netcoreapp2.2\MovieAPIProject.runtimeconfig.dev.json
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\bin\Debug\netcoreapp2.2\MovieAPIProject.dll
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\bin\Debug\netcoreapp2.2\MovieAPIProject.pdb
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\bin\Debug\netcoreapp2.2\MovieAPIProject.Views.dll
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\bin\Debug\netcoreapp2.2\MovieAPIProject.Views.pdb
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.TagHelpers.input.cache
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.TagHelpers.output.cache
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.RazorCoreGenerate.cache
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\FavoriteMovieList.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\List.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Home\Search.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.RazorTargetAssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.Views.pdb
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.csproj.CopyComplete

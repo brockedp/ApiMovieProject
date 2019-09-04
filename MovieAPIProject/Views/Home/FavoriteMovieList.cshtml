@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "FavoriteMovieList";
+}
+
+@model IEnumerable<FavoriteMovie>
+
+<h1>Favorite Movie List</h1>
+
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Year</th>
+        <th>Genre</th>
+        <th>Director</th>
+        <th>Actors</th>
+        <th>Plot</th>
+    </tr>
+    @foreach (var movie in Model)
+        {
+    <tr>
+        <td>@movie.Title</td>
+        <td>@movie.Year</td>
+        <td>@movie.Genre</td>
+        <td>@movie.Director</td>
+        <td>@movie.Actors</td>
+        <td>@movie.Plot</td>
+        <td><a href="/Home/DeleteMovie?Id=@movie.MovieId">  <input type="submit" value="Delete Movie?" /></a></td>
+    </tr>
+    }
+</table>
+@Html.ActionLink("Search for movies","Search")
