@@ -98,3 +98,4 @@ C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIP
 C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.RazorTargetAssemblyInfo.cs
 C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.Views.pdb
 C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.csproj.CopyComplete
+C:\Users\Deno\Documents\Grand Circus\MovieAPI_UseThis\APIProject_Movie\MovieAPIProject\MovieAPIProject\obj\Debug\netcoreapp2.2\MovieAPIProject.csprojAssemblyReference.cache

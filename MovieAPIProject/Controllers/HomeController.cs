@@ -42,7 +42,7 @@ namespace MovieAPIProject.Controllers
         {
             FavoriteMovie addedMovie = new FavoriteMovie();
             addedMovie.Title = favoriteMovie.Title;
-            addedMovie.Year = int.Parse(favoriteMovie.Year);
+            addedMovie.Year = favoriteMovie.Year;
             addedMovie.Genre = favoriteMovie.Genre;
             addedMovie.Director = favoriteMovie.Director;
             addedMovie.Actors = favoriteMovie.Actors;
